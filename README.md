@@ -1,2 +1,3 @@
 # divisor-cuentas
-Aplicacion (de consola) para dividir cuentas entre personas
+Proyecto personal.
+Aplicacion (de consola) en python para dividir gastos entre personas.
